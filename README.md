@@ -22,7 +22,7 @@ I am a passionate developer from Laos, focused on building clean, functional, an
 ---
 
 ### 📈 Current Learning Goals
-- [ ] Mastering Flutter state management (Bloc/Riverpod)
+- [ ] Improve Laravel skill more
 - [ ] Scaling Backend services with Go
 - [ ] Improving Microservices architecture
 
