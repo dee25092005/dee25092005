@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Dee 👋 
 
-<!--
-**dee25092005/dee25092005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Flutter & Fullstack Developer | UX/UI Enthusiast
+I am a passionate developer from Laos, focused on building clean, functional, and user-centric applications. Since graduating from the National University of Laos, I’ve been bridging the gap between elegant frontend design and robust backend logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+
+**Frontend & Mobile**
+- 📱 Flutter & Dart (Primary Focus)
+- 💻 Vue.js, JavaScript (ES6+), HTML5, CSS3
+
+**Backend & Database**
+- ⚡ Node.js, Golang, Laravel
+- 🗄️ MySQL, PostgreSQL, Firebase
+
+**Design & Tools**
+- 🎨 UI/UX Principles, Figma
+- 🛠 VS Code, Git, Docker
+
+---
+
+### 📈 Current Learning Goals
+- [ ] Mastering Flutter state management (Bloc/Riverpod)
+- [ ] Scaling Backend services with Go
+- [ ] Improving Microservices architecture
+
+---
+
+### 🤝 Connect with Me
+- 💼 [LinkedIn](YOUR_LINK_HERE)
+- 📧 [Email](mailto:your.email@example.com)
+
+---
+
+### 📊 GitHub Stats
+![Dee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dee25092005&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dee25092005&layout=compact&theme=radical)
