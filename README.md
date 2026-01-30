@@ -35,5 +35,6 @@ I am an **App Development student at the National University of Laos (third year
 ---
 
 ### 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/phonepaseuth-phommathep-61b586315/)
-- 📧 [Email](daa6842@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/phonepaseuth-phommathep-61b586315/)
+-  [Email] Daa6842@gmail.com
+-  [Whatapp](https://wa.me/2091072713) 
