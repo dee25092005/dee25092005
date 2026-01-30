@@ -5,13 +5,13 @@
 </p>
 
 ### 🛠️ Backend-Focused Developer
-*National University of Laos | Class of 2027*
+*National University of Laos | Expected 2027*
 
 I specialize in bridging the gap between elegant UI and robust backend architecture. Currently deep-diving into high-concurrency systems with **Golang** and scalable mobile solutions with **Flutter**.
 
 ---
 
-### 🚀 Tech Stack & Tools
+### Excuse me!! what i got in my bag:
 
 **Backend & Systems**
 <p align="left">
