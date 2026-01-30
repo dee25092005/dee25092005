@@ -1,40 +1,51 @@
-# Hi, I'm Dee (Phonepaseuth Phommathep) 
+# Hi, I'm Dee (Phonepaseuth Phommathep) 👋
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dee25092005&label=Profile%20views&color=0e75b6&style=flat" alt="Dee" />
+</p>
 
 ### 🛠️ Backend-Focused Developer
-*From Pakse, Laos.*
+*National University of Laos | Class of 2027*
 
-I am an **App Development student at the National University of Laos (third year)**. I believe that a beautiful frontend is only as good as the logic supporting it. Currently, I am deep-diving into **Golang and MongoDB** to build high-performance systems, while bridging the gap between elegant design and robust backend architecture.
-
----
-
-
-### 🛠 Tech Stack
-
-**The Core (Backend & Systems)**
-- 🐹 **Golang:** My current primary focus for high-concurrency and performance.
-- ⚡ **Node.js & Laravel:** Experienced in building structured MVC and RESTful APIs.
-- 🗄️ **Databases:** Schema design and optimization in MySQL and PostgreSQL.
-
-**The Interface (Frontend & Mobile)**
-- 📱 **Flutter & Dart:** Building high-quality cross-platform mobile apps.
-- ⚛️ **React & Vue.js:** Creating modern web apps with **Tailwind CSS** for clean, responsive design.
+I specialize in bridging the gap between elegant UI and robust backend architecture. Currently deep-diving into high-concurrency systems with **Golang** and scalable mobile solutions with **Flutter**.
 
 ---
 
-### 🧪 Engineering Standards
-- **Testing:** I believe code without tests is just a "hope." I use PHPUnit and am mastering Go's testing package.
+### 🚀 Tech Stack & Tools
+
+**Backend & Systems**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/>
+</p>
+
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</p>
 
 ---
 
-### 🎓 Education & Growth
-- **B.S. in App Development:** National University of Laos (Expected 2027)
-- **Current Goal:** Mastering Microservices and Concurrency in Go.
-- **Next Up:** Scaling backend services to handle 10k+ concurrent users.
+### 🔭 Current Focus
+- 🌱 Mastering **Microservices** and **Concurrency** in Go.
+- 🧪 Implementing **Test-Driven Development (TDD)** across all projects.
+- 📈 Aiming to scale backend services to **10k+ concurrent users**.
 
+### 🤝 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/phonepaseuth-phommathep-61b586315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+
+Daa6842@gmial.com
+
+<a href="https://wa.me/2091072713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="30" width="40" /></a>
+</p>
 
 ---
-
-### 🤝 Let's Connect
--  [LinkedIn](https://www.linkedin.com/in/phonepaseuth-phommathep-61b586315/)
--  [Email] Daa6842@gmail.com
--  [Whatapp](https://wa.me/2091072713) 
+*“luv u”*
