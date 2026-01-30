@@ -1,39 +1,39 @@
-# Hi, I'm Dee 👋 
+# Hi, I'm Dee (Phonepaseuth Phommathep) 
 
-### 🚀 Flutter & Fullstack Developer | UX/UI Enthusiast
-I am a passionate developer from Laos, focused on building clean, functional, and user-centric applications. Since graduating from the National University of Laos, I’ve been bridging the gap between elegant frontend design and robust backend logic.
+### 🛠️ Backend-Focused Developer
+*From Pakse, Laos.*
 
----
-
-### 🛠 My Tech Stack
-
-**Frontend & Mobile**
-- 📱 Flutter & Dart (Primary Focus)
-- 💻 Vue.js, JavaScript (ES6+), HTML5, CSS3
-
-**Backend & Database**
-- ⚡ Node.js, Golang, Laravel
-- 🗄️ MySQL, PostgreSQL, Firebase
-
-**Design & Tools**
-- 🎨 UI/UX Principles, Figma
-- 🛠 VS Code, Git, Docker
+I am an **App Development student at the National University of Laos (third year)**. I believe that a beautiful frontend is only as good as the logic supporting it. Currently, I am deep-diving into **Golang and MongoDB** to build high-performance systems, while bridging the gap between elegant design and robust backend architecture.
 
 ---
 
-### 📈 Current Learning Goals
-- [ ] Improve Laravel skill more
-- [ ] Scaling Backend services with Go
-- [ ] Improving Microservices architecture
+
+### 🛠 Tech Stack
+
+**The Core (Backend & Systems)**
+- 🐹 **Golang:** My current primary focus for high-concurrency and performance.
+- ⚡ **Node.js & Laravel:** Experienced in building structured MVC and RESTful APIs.
+- 🗄️ **Databases:** Schema design and optimization in MySQL and PostgreSQL.
+
+**The Interface (Frontend & Mobile)**
+- 📱 **Flutter & Dart:** Building high-quality cross-platform mobile apps.
+- ⚛️ **React & Vue.js:** Creating modern web apps with **Tailwind CSS** for clean, responsive design.
 
 ---
 
-### 🤝 Connect with Me
-- 💼 [LinkedIn](YOUR_LINK_HERE)
-- 📧 [Email](mailto:your.email@example.com)
+### 🧪 Engineering Standards
+- **Testing:** I believe code without tests is just a "hope." I use PHPUnit and am mastering Go's testing package.
 
 ---
 
-### 📊 GitHub Stats
-![Dee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dee25092005&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dee25092005&layout=compact&theme=radical)
+### 🎓 Education & Growth
+- **B.S. in App Development:** National University of Laos (Expected 2027)
+- **Current Goal:** Mastering Microservices and Concurrency in Go.
+- **Next Up:** Scaling backend services to handle 10k+ concurrent users.
+
+
+---
+
+### 🤝 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/phonepaseuth-phommathep-61b586315/)
+- 📧 [Email](daa6842@gmail.com)
