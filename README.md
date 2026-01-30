@@ -36,7 +36,7 @@ I specialize in bridging the gap between elegant UI and robust backend architect
 ### 🔭 Current Focus
 - 🌱 Mastering **Microservices** and **Concurrency** in Go.
 - 🧪 Implementing **Test-Driven Development (TDD)** across all projects.
-- 📈 Aiming to scale backend services to **10k+ concurrent users**.
+- 📈 Aiming to scale backend services to **get used to new thing **.
 
 ### 🤝 Connect with me
 <p align="left">
