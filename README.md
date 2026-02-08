@@ -7,7 +7,7 @@
 ### 🛠️ Backend-Focused Developer
 *National University of Laos | Expected 2027*
 
-I specialize in bridging the gap between elegant UI and robust backend architecture. Currently deep-diving into high-concurrency systems with **Golang,MongoDB** and **Docker** for scalable mobile solutions with **Flutter**.
+I try bridging the gap between elegant UI and robust backend architecture. Currently deep-diving into high-concurrency systems with **Golang,MongoDB** and **Docker** for scalable mobile solutions with **Flutter**.
 
 ---
 
