@@ -11,7 +11,7 @@ I try bridging the gap between elegant UI and robust backend architecture. Curre
 
 ---
 
-### Excuse me!! what i got in my bag:
+### Excuse me!! look what i got in my bag:
 
 **Backend & Systems**
 <p align="left">
